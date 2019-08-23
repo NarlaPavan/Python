@@ -1,4 +1,5 @@
-All the data sets are used in python code are below
+All the datasets i used in python code are below:
 currencies.csv
 loan.csv
 nas.csv
+EDA_grades.csv
