@@ -1,0 +1,4 @@
+All the data sets are used in python code are below
+currencies.csv
+loan.csv
+nas.csv
